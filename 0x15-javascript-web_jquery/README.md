@@ -1,4 +1,5 @@
-Javascript - Web JQuery
+Javascript - 
+Web JQuery
 Manipulating DOM with jQuery before implementing it into our AirBnB project.
 Tests ✔️
 tests: Folder of HTML files for testing DOM manipulation scripts.
